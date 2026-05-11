@@ -1,4 +1,4 @@
-Student Management System 🎓
+Student Management System 
 A full-stack web application designed for students to manage their academic modules, track study hours, and organize a weekly schedule. This project demonstrates a complete React + Spring Boot integration.
 
 * Project Structure
